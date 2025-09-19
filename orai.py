@@ -7,3 +7,4 @@ nev = "kis pista"
 #ajajajaj it problémak lesznek 
 a = 12 
 b = true
+nigea
